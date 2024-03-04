@@ -1,0 +1,14 @@
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\bin\Debug\net8.0\reversed_string.exe
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\bin\Debug\net8.0\reversed_string.deps.json
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\bin\Debug\net8.0\reversed_string.runtimeconfig.json
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\bin\Debug\net8.0\reversed_string.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\bin\Debug\net8.0\reversed_string.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.AssemblyInfoInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.AssemblyInfo.cs
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.csproj.CoreCompileInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\refint\reversed_string.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\reversed_string.genruntimeconfig.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\reversed_string\reversed_string\obj\Debug\net8.0\ref\reversed_string.dll
